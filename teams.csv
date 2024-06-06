@@ -1,0 +1,6 @@
+name,abbreviation,age,grade,gender,website,instagram,facebook,twitter,location,city,state,division
+Team Alpha,TA,16,10,Male,http://teamalpha.com,@teamalpha,facebook.com/teamalpha,@teamalpha,"123 Main St, Suite 100",Springfield,Alabama,3
+Team Beta,TB,17,11,Female,http://teambeta.com,@teambeta,facebook.com/teambeta,@teambeta,"456 Elm St, Suite 200",Shelbyville,Alabama,API Div
+Team Gamma,TG,15,9,Male,http://teamgamma.com,@teamgamma,facebook.com/teamgamma,@teamgamma,"789 Oak St, Suite 300",Ogdenville,Alabama,DIV Test
+TD,18,12,Female,http://teamdelta.com,@teamdelta,facebook.com/teamdelta,@teamdelta,"101 Pine St, Suite 400",Capital City,Alabama,3
+Team Epsilon,TE,14,8,Male,http://teamepsilon.com,@teamepsilon,facebook.com/teamepsilon,@teamepsilon,"202 Birch St, Suite 500",North Haverbrook,Alabamas,
