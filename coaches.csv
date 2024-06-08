@@ -1,4 +1,4 @@
-CoachRole,FirstName,LastName,Email,Birthdate,Phone,StreetAddress,ExtendedAddress,PostalCode,City,State,IsPrimary,Status,TeamName
-Head Coach,John,Doe,johndoe@example.com,1990-01-01,1234567890,123 Main St,,12345,Anytown,,1,active,
-Head Coach,Jane,Smith,janesmith@example.com,1985-05-15,9876543210,456 Elm St,,54321,Somewhere,,0,inactive,API TTM
-Head Coach,Alice,Johnson,alicejohnson@example.com,1982-11-30,5551234567,789 Oak St,,67890,Nowhere,,1,archived,
+CoachRole,FirstName,LastName,Email,Birthdate,Phone,StreetAddress,ExtendedAddress,PostalCode,City,State
+Head Coach,John,Doe,johndoe@example.com,1990-01-01,1234567890,123 Main St,,12345,Anytown,
+Head Coach,Jane,Smith,janesmith@example.com,1985-05-15,9876543210,456 Elm St,,54321,Somewhere,
+Head Coach,Alice,Johnson,alicejohnson@example.com,1982-11-30,5551234567,789 Oak St,,67890,Nowhere,
